@@ -1,0 +1,27 @@
+{
+  "name": "flux",
+  "version": "0.1.0",
+  "dependencies": [
+    "glad",
+    "sdl3",
+    "sdl3-ttf",
+    {
+      "name": "imgui",
+      "features": [
+        "docking-experimental",
+        "sdl3-binding",
+        "opengl3-binding"
+      ]
+    },
+    "opengl",
+    "glm",
+    "stb",
+    "assimp",
+    "imguizmo",
+    "luajit",
+    "sol2",
+    "nlohmann-json",
+    "joltphysics"
+  ],
+  "builtin-baseline": "0b88aacde46a853151730fbe7d0b7ee45f4b6864"
+}

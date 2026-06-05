@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/cmake_install.cmake",
+		"C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/Flux/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

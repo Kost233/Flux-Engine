@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\build\CMakeFiles\601bb5eb43efdffa17a18e0f2f672b75\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C462C41A-1BAA-320D-BB83-15275519FCF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

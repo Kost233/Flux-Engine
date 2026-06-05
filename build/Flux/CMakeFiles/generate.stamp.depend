@@ -1,0 +1,43 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FeatureSummary.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/SelectLibraryConfigurations.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/Flux/CMakeLists.txt
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/Jolt/JoltConfig-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/Jolt/JoltConfig-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/Jolt/JoltConfig.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/assimp/assimpConfig.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/assimp/assimpConfigVersion.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/assimp/assimpTargets-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/assimp/assimpTargets-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/assimp/assimpTargets.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glad/gladConfig.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glad/gladConfigVersion.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glad/gladTargets-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glad/gladTargets-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glad/gladTargets.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glm/glmConfig-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glm/glmConfig-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glm/glmConfig.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/glm/glmConfigVersion.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imgui/imgui-config.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imguizmo/imguizmo-config-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imguizmo/imguizmo-config-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/imguizmo/imguizmo-config.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sdl3/SDL3Config.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sdl3/SDL3ConfigVersion.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sdl3/SDL3headersTargets.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sdl3/SDL3sharedTargets-debug.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sdl3/SDL3sharedTargets-release.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sdl3/SDL3sharedTargets.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sol2/sol2-config-version.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sol2/sol2-config.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/sol2/sol2-targets.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/stb/FindStb.cmake
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/vcpkg_installed/x64-windows/share/stb/vcpkg-cmake-wrapper.cmake

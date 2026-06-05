@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\core\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\viewport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\ribbon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\explorer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\properties.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\render\3D\OpenGL\OpenGLManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\render\3D\OpenGL\OpenGLRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\render\3D\OpenGL\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\heiarchy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\Textureloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\stb_implementation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\core\pathHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\texteditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\scripting\luaEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\runtime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\core\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\viewport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\explorer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\properties.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\render\3D\OpenGL\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\render\3D\OpenGL\OpenGLRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\data\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\heiarchy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\data\Scenenode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\Textureloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\core\pathHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\editor\texteditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\scripting\luaEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\runtime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\SplashScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\data\cameraGuizmoModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\logic\PhysicsLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\kosta\Downloads\Flux-Testing-Repo-master\Flux-Testing-Repo-master\Flux\resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CAED164A-3D32-3645-AE45-BA98D8421861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CBE1E9BD-AABF-375A-AE32-6612F6E3E35F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

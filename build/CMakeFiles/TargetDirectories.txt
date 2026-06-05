@@ -1,0 +1,4 @@
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/Flux/CMakeFiles/Flux.dir
+C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/Flux/CMakeFiles/ALL_BUILD.dir
