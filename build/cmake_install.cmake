@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master
+# Install script for directory: C:/Users/kosta/OneDrive/Desktop/Flux Engine/Flux Engine
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,14 +34,14 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/Flux/cmake_install.cmake")
+  include("C:/Users/kosta/OneDrive/Desktop/Flux Engine/Flux Engine/build/Flux/cmake_install.cmake")
 
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/install_local_manifest.txt"
+  file(WRITE "C:/Users/kosta/OneDrive/Desktop/Flux Engine/Flux Engine/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -57,6 +57,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/kosta/Downloads/Flux-Testing-Repo-master/Flux-Testing-Repo-master/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/kosta/OneDrive/Desktop/Flux Engine/Flux Engine/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

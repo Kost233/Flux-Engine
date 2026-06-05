@@ -271,10 +271,19 @@ void Heiarchy::DrawNode(int index) {
 }
 
 void Heiarchy::renderHeiarchy(const std::filesystem::path& activeProjectPath) {
-    ImGui::Begin("Heiarchy");
+    ImGui::Begin("Scene");
     if (ImGui::IsWindowHovered()) ImGui::SetWindowFocus();
 
-    ImGui::Text("Scene");
+    ImGui::Text("Scene (Play)");
+    ImGui::SameLine();
+    
+    // Draw a small red circle using ImDrawList to avoid font-support question marks
+    ImVec2 pos = ImGui::GetCursorScreenPos();
+    float size = ImGui::GetFontSize() * 0.5f;
+    pos.y += ImGui::GetFontSize() * 0.25f + 1.0f; // Center vertically
+    pos.x += size * 0.5f;
+    ImGui::GetWindowDrawList()->AddCircleFilled(pos, size * 0.5f, IM_COL32(255, 30, 30, 255));
+    ImGui::Dummy(ImVec2(size + 5.0f, size)); // Advance cursor
     ImGui::Separator();
 
     // Search input bar

@@ -7,6 +7,7 @@
 
 namespace Flux
 {
+    void SetStalkerTheme();
 int currentTool = 0;
 bool showSettings = false;
 
@@ -15,12 +16,14 @@ void Ribbon::renderRibbon()
     ImGuiViewport *main_viewport = ImGui::GetMainViewport();
 
     ImGui::SetNextWindowPos(main_viewport->Pos);
-    ImGui::SetNextWindowSize(ImVec2(main_viewport->Size.x, 55));
+    ImGui::SetNextWindowSize(ImVec2(main_viewport->Size.x, 75));
 
     ImGuiWindowFlags window_flags = ImGuiWindowFlags_NoDecoration | ImGuiWindowFlags_NoMove |
                                     ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoDocking |
                                     ImGuiWindowFlags_MenuBar;
 
+    ImGui::PushStyleVar(ImGuiStyleVar_WindowBorderSize, 0.0f);
+    ImGui::PushStyleVar(ImGuiStyleVar_WindowRounding, 0.0f);
     ImGui::Begin("###Ribbon", nullptr, window_flags);
     if (ImGui::IsWindowHovered() && !ImGui::IsAnyItemActive())
     {
@@ -143,7 +146,7 @@ void Ribbon::renderRibbon()
         if (ImGui::Combo("Theme", &theme, "Dark Mode\0Light Mode\0Classic\0"))
         {
             if (theme == 0)
-                ImGui::StyleColorsDark();
+                SetStalkerTheme();
             if (theme == 1)
                 ImGui::StyleColorsLight();
             if (theme == 2)
@@ -244,6 +247,7 @@ void Ribbon::renderRibbon()
     }
 
     ImGui::End();
+    ImGui::PopStyleVar(2);
 }
 
 void Ribbon::drawTransformTools()
@@ -260,7 +264,7 @@ void Ribbon::drawTransformTools()
 
 void Ribbon::drawFileMenu()
 {
-    if (ImGui::BeginMenu("File"))
+    if (ImGui::BeginMenu("Scene"))
     {
         if (ImGui::MenuItem("New Project..."))
         {
